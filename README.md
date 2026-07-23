@@ -1,9 +1,13 @@
+---
+tags: [工具, 系統, 行銷]
+---
+
 # 整合行銷工具盒 | Marketing Toolkit
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-18.x-61DAFB?logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Vite-7.x-646CFF?logo=vite" alt="Vite">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+ <img src="https://img.shields.io/badge/React-18.x-61DAFB?logo=react" alt="React">
+ <img src="https://img.shields.io/badge/Vite-7.x-646CFF?logo=vite" alt="Vite">
+ <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
 一站式整合行銷工具平台，專為數位行銷人員、設計師和企業打造。
@@ -93,16 +97,16 @@ npm run build
 ```
 src/
 ├── components/
-│   └── Tabs/
-│       ├── QRGeneratorTab.jsx    # QR Code 產生器
-│       ├── GTMTrackerTab.jsx     # GTM 追蹤產生器
-│       ├── ShortLinkTab.jsx      # 短網址產生器
-│       ├── ImageResizerTab.jsx   # 圖片壓縮工具
-│       ├── OCRScannerTab.jsx     # 名片掃描 OCR
-│       └── AdSpecsTab.jsx        # 廣告規格速查
-├── App.jsx                       # 主應用程式
-├── main.jsx                      # 入口檔案
-└── index.css                     # 全局樣式
+│ └── Tabs/
+│ ├── QRGeneratorTab.jsx # QR Code 產生器
+│ ├── GTMTrackerTab.jsx # GTM 追蹤產生器
+│ ├── ShortLinkTab.jsx # 短網址產生器
+│ ├── ImageResizerTab.jsx # 圖片壓縮工具
+│ ├── OCRScannerTab.jsx # 名片掃描 OCR
+│ └── AdSpecsTab.jsx # 廣告規格速查
+├── App.jsx # 主應用程式
+├── main.jsx # 入口檔案
+└── index.css # 全局樣式
 ```
 
 ## 🎨 設計特色
@@ -147,5 +151,5 @@ MIT License © 2025 Yenyen
 ---
 
 <p align="center">
-  Made with ❤️ by Yenyen
+ Made with ❤️ by Yenyen
 </p>
